@@ -4,6 +4,8 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+  // remember to change tailwing config darkmode as class 
+  darkMode: "class",
   theme: {
     extend: {},
   },
